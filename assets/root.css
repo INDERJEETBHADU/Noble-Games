@@ -8,10 +8,19 @@
     --fs-4xl: 32px;
 
     /* color-here */
+    --bgcolor-litgrey:#FFFFFF29;
+    --color-darkpink:#9263EE;
+    --color-lightblack:#0000003D;
+    --bgcolor-light:#EFEFEF;
+--bgcolor-purple:#9760ED;
+    --color-white: #ffff;
     --color-black: #000000;
     --color-white: #fdfcfc;
     --color-lightwhite: #fafafa;
     --bgcolor-white: #fdfcfc;
+    --bgcolor-pink: #A854E9;
+    --bgcolor-black:#000000;
+    --fillcolor-pinkish:#fa00ff;
 }
 
 .text-14 {
@@ -57,6 +66,10 @@
 
 .bgwhite {
     background-color: #fdfcfc;
+}
+
+.bgpink {
+    background-color: #A854E9;
 }
 
 
